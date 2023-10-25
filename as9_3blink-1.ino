@@ -1,3 +1,5 @@
+// Cassandra Oliva
+
 void setup() {
 pinMode(0, OUTPUT);    // sets the digital pin 0 as output
 pinMode(1, OUTPUT);    // sets the digital pin 1 as output
