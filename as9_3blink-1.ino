@@ -4,10 +4,10 @@ pinMode(1, OUTPUT);    // sets the digital pin 1 as output
 pinMode(2, OUTPUT);    // sets the digital pin 2 as output
 pinMode(9, INPUT);    // sets the digital pin 9 as input
 }
-
+//MY NAME IS RIGHT HERE -> Luka Stratimirovic
 void loop() {
   
-if (digitalRead(9) == HIGH) {
+if (digitalRead(9) == HIGH) { 
   digitalWrite(0, HIGH); // sets the digital pin 0 on
   delay(20000);            // waits for a second
   digitalWrite(0, LOW);  // sets the digital pin 0 off
